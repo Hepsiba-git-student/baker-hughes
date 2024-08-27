@@ -1,6 +1,6 @@
 resource symbolicname 'Microsoft.Sql/servers/databases@2023-05-01-preview' = {
-  name: 'string'
-  location: 'string'
+  name: 'Hepsiba'
+  location: 'vijayawada'
   tags: {
     tagName1: 'tagValue1'
     tagName2: 'tagValue2'
